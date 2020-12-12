@@ -1,0 +1,12 @@
+{
+  "name": "floatingHearts",
+  "displayName": "floatingHearts",
+  "expo": {
+    "name": "floatingHearts",
+    "slug": "floatingHearts",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
